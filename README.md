@@ -1,7 +1,10 @@
 # data-sets-surf-repository
 
-LDBC data sets are stored under [SURF's CWI repositories](https://repository.surfsara.nl/community/cwi).
-Note that the data sets are [stored on tape](https://servicedesk.surfsara.nl/wiki/display/WIKI/Data+Archive#DataArchive-What?-Thetapeback-endandtheDataMigrationFacility(DMF)), therefore, you may have to stage them before transfer. To do so, visit the repository of the data set and click "Request" for offline files. Staging a 20 GB file takes approx. 3-5 minutes, while staging a 200 GB one takes approx. 10-15 minutes.
+The LDBC benchmark data sets are stored under [SURF's CWI repositories](https://repository.surfsara.nl/community/cwi).
+
+## Usage
+
+The data sets are [stored on tape](https://servicedesk.surfsara.nl/wiki/display/WIKI/Data+Archive#DataArchive-What?-Thetapeback-endandtheDataMigrationFacility(DMF)), therefore, you may have to stage them before transfer. To do so, visit the repository of the data set and click "Request" for offline files. Staging a 20 GB file takes approx. 3-5 minutes, while staging a 200 GB one takes approx. 10-15 minutes.
 
 ## Graphalytics
 
@@ -433,12 +436,12 @@ All: * [`substitution_parameters/substitution_parameters.tar.zst`](https://repos
 
 ### Data sets used in the original contest
 
-* [`o10k.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-sigmod-data-sets/files/o10k.tar.zst)
 * [`o1k.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-sigmod-data-sets/files/o1k.tar.zst)
+* [`o10k.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-sigmod-data-sets/files/o10k.tar.zst)
 
 ### New data sets
 
-* [`p1000k.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-sigmod-data-sets/files/p1000k.tar.zst)
-* [`p100k.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-sigmod-data-sets/files/p100k.tar.zst)
-* [`p10k.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-sigmod-data-sets/files/p10k.tar.zst)
 * [`p1k.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-sigmod-data-sets/files/p1k.tar.zst)
+* [`p10k.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-sigmod-data-sets/files/p10k.tar.zst)
+* [`p100k.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-sigmod-data-sets/files/p100k.tar.zst)
+* [`p1000k.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-sigmod-data-sets/files/p1000k.tar.zst)
