@@ -1,7 +1,7 @@
 # data-sets-surf-repository
 
-Data sets stored under [SURF's CWI repositories](https://repository.surfsara.nl/community/cwi).
-Note that the data sets are stored on tape, therefore, you may have to stage them for transfer. To do so, visit the repository of the data set and click "Request". Staging should take a few minutes.
+LDBC data sets are stored under [SURF's CWI repositories](https://repository.surfsara.nl/community/cwi).
+Note that the data sets are [stored on tape](https://servicedesk.surfsara.nl/wiki/display/WIKI/Data+Archive#DataArchive-What?-Thetapeback-endandtheDataMigrationFacility(DMF)), therefore, you may have to stage them before transfer. To do so, visit the repository of the data set and click "Request" for offline files. Staging a 20 GB file takes approx. 3-5 minutes, while staging a 200 GB one takes approx. 10-15 minutes.
 
 ## Graphalytics
 
