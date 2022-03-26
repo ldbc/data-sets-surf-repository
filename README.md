@@ -248,6 +248,8 @@ All: * [`substitution_parameters/substitution_parameters.tar.zst`](https://repos
 
 ### Update streams
 
+#### SF0.1
+
 * [`social_network-sf0.1-numpart-1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf0.1/social_network-sf0.1-numpart-1.tar.zst)
 * [`social_network-sf0.1-numpart-2.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf0.1/social_network-sf0.1-numpart-2.tar.zst)
 * [`social_network-sf0.1-numpart-4.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf0.1/social_network-sf0.1-numpart-4.tar.zst)
@@ -265,6 +267,8 @@ All: * [`substitution_parameters/substitution_parameters.tar.zst`](https://repos
 * [`social_network-sf0.1-numpart-512.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf0.1/social_network-sf0.1-numpart-512.tar.zst)
 * [`social_network-sf0.1-numpart-768.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf0.1/social_network-sf0.1-numpart-768.tar.zst)
 * [`social_network-sf0.1-numpart-1024.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf0.1/social_network-sf0.1-numpart-1024.tar.zst)
+
+#### SF0.3
 
 * [`social_network-sf0.3-numpart-1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf0.3/social_network-sf0.3-numpart-1.tar.zst)
 * [`social_network-sf0.3-numpart-2.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf0.3/social_network-sf0.3-numpart-2.tar.zst)
@@ -284,6 +288,8 @@ All: * [`substitution_parameters/substitution_parameters.tar.zst`](https://repos
 * [`social_network-sf0.3-numpart-768.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf0.3/social_network-sf0.3-numpart-768.tar.zst)
 * [`social_network-sf0.3-numpart-1024.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf0.3/social_network-sf0.3-numpart-1024.tar.zst)
 
+#### SF1
+
 * [`social_network-sf1-numpart-1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf1/social_network-sf1-numpart-1.tar.zst)
 * [`social_network-sf1-numpart-2.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf1/social_network-sf1-numpart-2.tar.zst)
 * [`social_network-sf1-numpart-4.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf1/social_network-sf1-numpart-4.tar.zst)
@@ -301,6 +307,8 @@ All: * [`substitution_parameters/substitution_parameters.tar.zst`](https://repos
 * [`social_network-sf1-numpart-512.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf1/social_network-sf1-numpart-512.tar.zst)
 * [`social_network-sf1-numpart-768.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf1/social_network-sf1-numpart-768.tar.zst)
 * [`social_network-sf1-numpart-1024.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf1/social_network-sf1-numpart-1024.tar.zst)
+
+#### SF3
 
 * [`social_network-sf3-numpart-1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf3/social_network-sf3-numpart-1.tar.zst)
 * [`social_network-sf3-numpart-2.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf3/social_network-sf3-numpart-2.tar.zst)
@@ -320,6 +328,8 @@ All: * [`substitution_parameters/substitution_parameters.tar.zst`](https://repos
 * [`social_network-sf3-numpart-768.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf3/social_network-sf3-numpart-768.tar.zst)
 * [`social_network-sf3-numpart-1024.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf3/social_network-sf3-numpart-1024.tar.zst)
 
+#### SF10
+
 * [`social_network-sf10-numpart-1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf10/social_network-sf10-numpart-1.tar.zst)
 * [`social_network-sf10-numpart-2.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf10/social_network-sf10-numpart-2.tar.zst)
 * [`social_network-sf10-numpart-4.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf10/social_network-sf10-numpart-4.tar.zst)
@@ -337,6 +347,8 @@ All: * [`substitution_parameters/substitution_parameters.tar.zst`](https://repos
 * [`social_network-sf10-numpart-512.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf10/social_network-sf10-numpart-512.tar.zst)
 * [`social_network-sf10-numpart-768.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf10/social_network-sf10-numpart-768.tar.zst)
 * [`social_network-sf10-numpart-1024.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf10/social_network-sf10-numpart-1024.tar.zst)
+
+#### SF30
 
 * [`social_network-sf30-numpart-1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf30/social_network-sf30-numpart-1.tar.zst)
 * [`social_network-sf30-numpart-2.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf30/social_network-sf30-numpart-2.tar.zst)
@@ -356,6 +368,8 @@ All: * [`substitution_parameters/substitution_parameters.tar.zst`](https://repos
 * [`social_network-sf30-numpart-768.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf30/social_network-sf30-numpart-768.tar.zst)
 * [`social_network-sf30-numpart-1024.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf30/social_network-sf30-numpart-1024.tar.zst)
 
+#### SF100
+
 * [`social_network-sf100-numpart-1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf100/social_network-sf100-numpart-1.tar.zst)
 * [`social_network-sf100-numpart-2.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf100/social_network-sf100-numpart-2.tar.zst)
 * [`social_network-sf100-numpart-4.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf100/social_network-sf100-numpart-4.tar.zst)
@@ -374,6 +388,8 @@ All: * [`substitution_parameters/substitution_parameters.tar.zst`](https://repos
 * [`social_network-sf100-numpart-768.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf100/social_network-sf100-numpart-768.tar.zst)
 * [`social_network-sf100-numpart-1024.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf100/social_network-sf100-numpart-1024.tar.zst)
 
+#### SF300
+
 * [`social_network-sf300-numpart-1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf300/social_network-sf300-numpart-1.tar.zst)
 * [`social_network-sf300-numpart-2.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf300/social_network-sf300-numpart-2.tar.zst)
 * [`social_network-sf300-numpart-4.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf300/social_network-sf300-numpart-4.tar.zst)
@@ -391,6 +407,8 @@ All: * [`substitution_parameters/substitution_parameters.tar.zst`](https://repos
 * [`social_network-sf300-numpart-512.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf300/social_network-sf300-numpart-512.tar.zst)
 * [`social_network-sf300-numpart-768.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf300/social_network-sf300-numpart-768.tar.zst)
 * [`social_network-sf300-numpart-1024.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf300/social_network-sf300-numpart-1024.tar.zst)
+
+#### SF1000
 
 * [`social_network-sf1000-numpart-1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf1000/social_network-sf1000-numpart-1.tar.zst)
 * [`social_network-sf1000-numpart-2.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf1000/social_network-sf1000-numpart-2.tar.zst)
