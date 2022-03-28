@@ -126,39 +126,39 @@ The data sets are [stored on tape](https://servicedesk.surfsara.nl/wiki/display/
 
 ### Social network with the CsvBasic serializer using LongDateFormatter
 
-* [`social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf0.1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf0.1.tar.zst)
-* [`social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf0.3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf0.3.tar.zst)
-* [`social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf1.tar.zst)
-* [`social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf3.tar.zst)
-* [`social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf10.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf10.tar.zst)
-* [`social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf30.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf30.tar.zst)
-* [`social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf100.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf100.tar.zst)
-* [`social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf300.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf300.tar.zst)
-* [`social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf1000.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf1000.tar.zst)
+* [`social_network-csv_basic-longdateformatter-sf0.1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf0.1.tar.zst)
+* [`social_network-csv_basic-longdateformatter-sf0.3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf0.3.tar.zst)
+* [`social_network-csv_basic-longdateformatter-sf1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf1.tar.zst)
+* [`social_network-csv_basic-longdateformatter-sf3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf3.tar.zst)
+* [`social_network-csv_basic-longdateformatter-sf10.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf10.tar.zst)
+* [`social_network-csv_basic-longdateformatter-sf30.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf30.tar.zst)
+* [`social_network-csv_basic-longdateformatter-sf100.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf100.tar.zst)
+* [`social_network-csv_basic-longdateformatter-sf300.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf300.tar.zst)
+* [`social_network-csv_basic-longdateformatter-sf1000.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf1000.tar.zst)
 
 ### Social network with the CsvBasic serializer using StringDateFormatter
 
-* [`social_network-csv_basic/social_network-csv_basic-sf0.1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf0.1.tar.zst)
-* [`social_network-csv_basic/social_network-csv_basic-sf0.3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf0.3.tar.zst)
-* [`social_network-csv_basic/social_network-csv_basic-sf1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf1.tar.zst)
-* [`social_network-csv_basic/social_network-csv_basic-sf3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf3.tar.zst)
-* [`social_network-csv_basic/social_network-csv_basic-sf10.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf10.tar.zst)
-* [`social_network-csv_basic/social_network-csv_basic-sf30.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf30.tar.zst)
-* [`social_network-csv_basic/social_network-csv_basic-sf100.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf100.tar.zst)
-* [`social_network-csv_basic/social_network-csv_basic-sf300.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf300.tar.zst)
-* [`social_network-csv_basic/social_network-csv_basic-sf1000.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf1000.tar.zst)
+* [`social_network-csv_basic-sf0.1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf0.1.tar.zst)
+* [`social_network-csv_basic-sf0.3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf0.3.tar.zst)
+* [`social_network-csv_basic-sf1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf1.tar.zst)
+* [`social_network-csv_basic-sf3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf3.tar.zst)
+* [`social_network-csv_basic-sf10.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf10.tar.zst)
+* [`social_network-csv_basic-sf30.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf30.tar.zst)
+* [`social_network-csv_basic-sf100.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf100.tar.zst)
+* [`social_network-csv_basic-sf300.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf300.tar.zst)
+* [`social_network-csv_basic-sf1000.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf1000.tar.zst)
 
 ### Social network with the CsvCompositeMergeForeign serializer using LongDateFormatter
 
-* [`social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf0.1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf0.1.tar.zst)
-* [`social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf0.3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf0.3.tar.zst)
-* [`social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf1.tar.zst)
-* [`social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf3.tar.zst)
-* [`social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf10.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf10.tar.zst)
-* [`social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf30.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf30.tar.zst)
-* [`social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf100.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf100.tar.zst)
-* [`social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf300.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf300.tar.zst)
-* [`social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf1000.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf1000.tar.zst)
+* [`social_network-csv_composite_merge_foreign-longdateformatter-sf0.1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf0.1.tar.zst)
+* [`social_network-csv_composite_merge_foreign-longdateformatter-sf0.3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf0.3.tar.zst)
+* [`social_network-csv_composite_merge_foreign-longdateformatter-sf1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf1.tar.zst)
+* [`social_network-csv_composite_merge_foreign-longdateformatter-sf3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf3.tar.zst)
+* [`social_network-csv_composite_merge_foreign-longdateformatter-sf10.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf10.tar.zst)
+* [`social_network-csv_composite_merge_foreign-longdateformatter-sf30.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf30.tar.zst)
+* [`social_network-csv_composite_merge_foreign-longdateformatter-sf100.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf100.tar.zst)
+* [`social_network-csv_composite_merge_foreign-longdateformatter-sf300.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf300.tar.zst)
+* [`social_network-csv_composite_merge_foreign-longdateformatter-sf1000.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign-longdateformatter/social_network-csv_composite_merge_foreign-longdateformatter-sf1000.tar.zst)
 
 ### Social network with the CsvCompositeMergeForeign serializer using StringDateFormatter
 
@@ -234,7 +234,7 @@ The data sets are [stored on tape](https://servicedesk.surfsara.nl/wiki/display/
 
 ### Substitution parameters
 
-All: * [`substitution_parameters/substitution_parameters.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/substitution_parameters/substitution_parameters.tar.zst)
+All: [`substitution_parameters/substitution_parameters.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/substitution_parameters/substitution_parameters.tar.zst)
 
 * [`substitution_parameters-sf0.1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/substitution_parameters/substitution_parameters-sf0.1.tar.zst)
 * [`substitution_parameters-sf0.3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/substitution_parameters/substitution_parameters-sf0.3.tar.zst)
