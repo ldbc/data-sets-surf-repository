@@ -6,6 +6,13 @@ The LDBC benchmark data sets are stored under [SURF's CWI repositories](https://
 
 The data sets are [stored on tape](https://servicedesk.surfsara.nl/wiki/display/WIKI/Data+Archive#DataArchive-What?-Thetapeback-endandtheDataMigrationFacility(DMF)), therefore, you may have to stage them before transfer. To do so, visit the repository of the data set and click "Request" for offline files. Staging a 20 GB file takes approx. 3-5 minutes, while staging a 200 GB one takes approx. 10-15 minutes.
 
+To decompress, use curl and [zstd](https://github.com/facebook/zstd).
+
+```bash
+curl -s set_url_here | tar -xv -I zstd
+```
+
+
 ## Graphalytics
 
 [Repository](https://hdl.handle.net/11112/7ec6a51e-6fdb-bf8d-4507-456ccadc9291)
