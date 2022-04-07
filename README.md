@@ -9,7 +9,7 @@ The data sets are [stored on tape](https://servicedesk.surfsara.nl/wiki/display/
 To decompress, use curl and [zstd](https://github.com/facebook/zstd).
 
 ```bash
-curl -s set_url_here | tar -xv -I zstd
+curl --silent --fail set_url_here | tar -xv -I zstd
 ```
 
 
