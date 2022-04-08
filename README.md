@@ -15,8 +15,8 @@ curl --silent --fail set_url_here | tar -xv --use-compress-program=unzstd
 We provide a script which attempts to download the data set and auto-stage it if necessary:
 
 ```
-export DATA_SET_URL=
-./download-data-set.sh
+export DATA_SET_URL=...
+./download-data-set.sh ${DATA_SET_URL}
 ```
 
 ## Graphalytics
