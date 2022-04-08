@@ -9,9 +9,15 @@ The data sets are [stored on tape](https://servicedesk.surfsara.nl/wiki/display/
 To decompress, use curl and [zstd](https://github.com/facebook/zstd).
 
 ```bash
-curl --silent --fail set_url_here | tar -xv -I zstd
+curl --silent --fail set_url_here | tar -xv --use-compress-program=unzstd
 ```
 
+We provide a script which attempts to download the data set and auto-stage it if necessary:
+
+```
+export DATA_SET_URL=
+./download-data-set.sh
+```
 
 ## Graphalytics
 
