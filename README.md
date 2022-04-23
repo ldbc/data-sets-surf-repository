@@ -252,7 +252,7 @@ export DATA_SET_URL=...
 
 ### Substitution parameters
 
-All: [`substitution_parameters/substitution_parameters.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/substitution_parameters/substitution_parameters.tar.zst)
+All: [`substitution_parameters.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/substitution_parameters/substitution_parameters.tar.zst)
 
 * [`substitution_parameters-sf0.1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/substitution_parameters/substitution_parameters-sf0.1.tar.zst)
 * [`substitution_parameters-sf0.3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/substitution_parameters/substitution_parameters-sf0.3.tar.zst)
