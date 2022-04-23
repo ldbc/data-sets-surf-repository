@@ -22,7 +22,7 @@ export DATA_SET_URL=...
 
 ## Graphalytics
 
-[Repository](https://hdl.handle.net/11112/7ec6a51e-6fdb-bf8d-4507-456ccadc9291)
+:inbox_tray: [Repository](https://hdl.handle.net/11112/7ec6a51e-6fdb-bf8d-4507-456ccadc9291)
 
 ### Graph and validation data sets
 
@@ -140,7 +140,7 @@ export DATA_SET_URL=...
 
 ## Social Network Benchmark (SNB) Interactive
 
-[Repository](https://hdl.handle.net/11112/e6e00558-a2c3-9214-473e-04a16de09bf8)
+:inbox_tray: [Repository](https://hdl.handle.net/11112/e6e00558-a2c3-9214-473e-04a16de09bf8)
 
 ### Social network with the CsvBasic serializer using LongDateFormatter
 
@@ -448,7 +448,7 @@ All: [`substitution_parameters.tar.zst`](https://repository.surfsara.nl/datasets
 
 ## Labelled Subgraph Query Benchmark (LSQB)
 
-[Repository](https://hdl.handle.net/11112/9fa972d6-dec4-983a-4e6a-83809f39b7fe)
+:inbox_tray: [Repository](https://hdl.handle.net/11112/9fa972d6-dec4-983a-4e6a-83809f39b7fe)
 
 ### Merged FK
 
@@ -476,7 +476,7 @@ All: [`substitution_parameters.tar.zst`](https://repository.surfsara.nl/datasets
 
 ## SIGMOD 2014 Programming Contest
 
-[Repository](https://hdl.handle.net/11112/dde63984-08bb-848c-4f00-bfdad71ed649)
+:inbox_tray: [Repository](https://hdl.handle.net/11112/dde63984-08bb-848c-4f00-bfdad71ed649)
 
 ### Data sets used in the original contest
 
