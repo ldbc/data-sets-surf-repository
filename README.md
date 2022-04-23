@@ -22,12 +22,12 @@ export DATA_SET_URL=...
 
 ## Graphalytics
 
-:inbox_tray: [Repository](https://hdl.handle.net/11112/7ec6a51e-6fdb-bf8d-4507-456ccadc9291)
+[:inbox_tray: Repository](https://hdl.handle.net/11112/7ec6a51e-6fdb-bf8d-4507-456ccadc9291)
 
 ### Graph and validation data sets
 
 | data set | number of vertices | number of edges |
-| -------: | -----------------: | --------------: |
+| -------- | -----------------: | --------------: |
 | [`cit-Patents.tar.zst`](https://repository.surfsara.nl/datasets/cwi/graphalytics/files/graphalytics-graph-data-sets/cit-Patents.tar.zst) | 3774768 | 16518947 |
 | [`com-friendster.tar.zst`](https://repository.surfsara.nl/datasets/cwi/graphalytics/files/graphalytics-graph-data-sets/com-friendster.tar.zst) | 65608366 | 1806067135 |
 | [`datagen-7_5-fb.tar.zst`](https://repository.surfsara.nl/datasets/cwi/graphalytics/files/graphalytics-graph-data-sets/datagen-7_5-fb.tar.zst) | 633432 | 34185747 |
@@ -71,7 +71,7 @@ export DATA_SET_URL=...
 ### Graphs as sparse matrices in Matrix Market format
 
 | data set | number of vertices | number of edges |
-| -------: | -----------------: | --------------: |
+| -------- | -----------------: | --------------: |
 | [`matrix-market/cit-Patents.tar.zst`](https://repository.surfsara.nl/datasets/cwi/graphalytics/files/graphalytics-sparse-matrices-matrix-market/cit-Patents.tar.zst) | 3774768 | 16518947 |
 | [`matrix-market/com-friendster.tar.zst`](https://repository.surfsara.nl/datasets/cwi/graphalytics/files/graphalytics-sparse-matrices-matrix-market/com-friendster.tar.zst) | 65608366 | 1806067135 |
 | [`matrix-market/datagen-7_5-fb-bool.tar.zst`](https://repository.surfsara.nl/datasets/cwi/graphalytics/files/graphalytics-sparse-matrices-matrix-market/datagen-7_5-fb-bool.tar.zst) | 633432 | 34185747 |
@@ -140,7 +140,7 @@ export DATA_SET_URL=...
 
 ## Social Network Benchmark (SNB) Interactive
 
-:inbox_tray: [Repository](https://hdl.handle.net/11112/e6e00558-a2c3-9214-473e-04a16de09bf8)
+[:inbox_tray: Repository](https://hdl.handle.net/11112/e6e00558-a2c3-9214-473e-04a16de09bf8)
 
 ### Social network with the CsvBasic serializer using LongDateFormatter
 
@@ -448,7 +448,7 @@ All: [`substitution_parameters.tar.zst`](https://repository.surfsara.nl/datasets
 
 ## Labelled Subgraph Query Benchmark (LSQB)
 
-:inbox_tray: [Repository](https://hdl.handle.net/11112/9fa972d6-dec4-983a-4e6a-83809f39b7fe)
+[:inbox_tray: Repository](https://hdl.handle.net/11112/9fa972d6-dec4-983a-4e6a-83809f39b7fe)
 
 ### Merged FK
 
@@ -476,7 +476,7 @@ All: [`substitution_parameters.tar.zst`](https://repository.surfsara.nl/datasets
 
 ## SIGMOD 2014 Programming Contest
 
-:inbox_tray: [Repository](https://hdl.handle.net/11112/dde63984-08bb-848c-4f00-bfdad71ed649)
+[:inbox_tray: Repository](https://hdl.handle.net/11112/dde63984-08bb-848c-4f00-bfdad71ed649)
 
 ### Data sets used in the original contest
 
