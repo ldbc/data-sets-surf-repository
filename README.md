@@ -20,7 +20,9 @@ export DATA_SET_URL=...
 ./download-data-set.sh ${DATA_SET_URL}
 ```
 
-## Graphalytics
+---
+
+## LDBC Graphalytics
 
 [:inbox_tray: Repository](https://hdl.handle.net/11112/7ec6a51e-6fdb-bf8d-4507-456ccadc9291)
 
@@ -137,6 +139,8 @@ export DATA_SET_URL=...
 | [`matrix-market/kgs-fp64.tar.zst`](https://repository.surfsara.nl/datasets/cwi/graphalytics/files/graphalytics-sparse-matrices-matrix-market/kgs-fp64.tar.zst) | 832247 | 17891698 |
 | [`matrix-market/twitter_mpi.tar.zst`](https://repository.surfsara.nl/datasets/cwi/graphalytics/files/graphalytics-sparse-matrices-matrix-market/twitter_mpi.tar.zst) | 52579678 | 1963263508 |
 | [`matrix-market/wiki-Talk.tar.zst`](https://repository.surfsara.nl/datasets/cwi/graphalytics/files/graphalytics-sparse-matrices-matrix-market/wiki-Talk.tar.zst) | 2394385 | 5021410 |
+
+---
 
 ## Social Network Benchmark (SNB) Interactive
 
@@ -446,6 +450,8 @@ All: [`substitution_parameters.tar.zst`](https://repository.surfsara.nl/datasets
 * [`social_network-sf1000-numpart-768.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf1000/social_network-sf1000-numpart-768.tar.zst)
 * [`social_network-sf1000-numpart-1024.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/updatestreams/sf1000/social_network-sf1000-numpart-1024.tar.zst)
 
+---
+
 ## Labelled Subgraph Query Benchmark (LSQB)
 
 [:inbox_tray: Repository](https://hdl.handle.net/11112/9fa972d6-dec4-983a-4e6a-83809f39b7fe)
@@ -474,6 +480,8 @@ All: [`substitution_parameters.tar.zst`](https://repository.surfsara.nl/datasets
 * [`lsqb-projected/social-network-sf300-projected-fk.tar.zst`](https://repository.surfsara.nl/datasets/cwi/lsqb/files/lsqb-projected/social-network-sf300-projected-fk.tar.zst)
 * [`lsqb-projected/social-network-sf1000-projected-fk.tar.zst`](https://repository.surfsara.nl/datasets/cwi/lsqb/files/lsqb-projected/social-network-sf1000-projected-fk.tar.zst)
 
+---
+
 ## SIGMOD 2014 Programming Contest
 
 [:inbox_tray: Repository](https://hdl.handle.net/11112/dde63984-08bb-848c-4f00-bfdad71ed649)
@@ -489,3 +497,11 @@ All: [`substitution_parameters.tar.zst`](https://repository.surfsara.nl/datasets
 * [`p10k.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-sigmod-data-sets/files/p10k.tar.zst)
 * [`p100k.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-sigmod-data-sets/files/p100k.tar.zst)
 * [`p1000k.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-sigmod-data-sets/files/p1000k.tar.zst)
+
+---
+
+## Social Network Benchmark (SNB) Business Intelligence (BI)
+
+[:inbox_tray: Repository]()
+
+TBA
