@@ -1,4 +1,4 @@
-# data-sets-surf-repository
+# LDBC benchmark data sets
 
 The LDBC benchmark data sets are stored under [SURF's CWI repositories](https://repository.surfsara.nl/community/cwi).
 
