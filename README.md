@@ -13,11 +13,10 @@ To decompress, use curl and [zstd](https://github.com/facebook/zstd).
 curl --silent --fail set_url_here | tar -xv --use-compress-program=unzstd
 ```
 
-We provide a script which attempts to download the data set and auto-stage it if necessary:
+We provide a script which attempts to download the data set and auto-stage it if necessary. Usage:
 
 ```
-export DATA_SET_URL=...
-./download-data-set.sh ${DATA_SET_URL}
+./download-data-set.sh data_set_url
 ```
 
 ---
