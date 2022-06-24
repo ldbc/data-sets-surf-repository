@@ -13,10 +13,16 @@ To decompress, use curl and [zstd](https://github.com/facebook/zstd).
 curl --silent --fail set_url_here | tar -xv --use-compress-program=unzstd
 ```
 
-We provide a script which attempts to download the data set and auto-stage it if necessary. Usage:
+We provide a script which attempts to download the data set and auto-stage it if necessary. Set the data set to the URLs linked below in this README (right click and select Copy Link Address):
 
-```
+```bash
 ./download-data-set.sh data_set_url
+```
+
+Example:
+
+```bash
+./download-data-set.sh https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic-longdateformatter/social_network-csv_basic-longdateformatter-sf0.1.tar.zst
 ```
 
 ---
