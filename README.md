@@ -147,16 +147,16 @@ Example:
 
 ---
 
-## Social Network Benchmark (SNB) Interactive
+## Social Network Benchmark (SNB) Interactive v1
 
 [:inbox_tray: Repository](https://hdl.handle.net/11112/e6e00558-a2c3-9214-473e-04a16de09bf8)
 
-### SNB Interactive: CsvBasic serializer using LongDateFormatter
+### SNB Interactive v1: CsvBasic serializer using LongDateFormatter
 
 These data sets were incorrectly generated, see the [related issue](https://github.com/ldbc/data-sets-surf-repository/issues/4), hence we removed their links.
 The correctly generated data sets will be deployed in the autumn of 2022.
 
-### SNB Interactive: CsvBasic serializer using StringDateFormatter
+### SNB Interactive v1: CsvBasic serializer using StringDateFormatter
 
 * [`social_network-csv_basic-sf0.1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf0.1.tar.zst)
 * [`social_network-csv_basic-sf0.3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf0.3.tar.zst)
@@ -168,7 +168,7 @@ The correctly generated data sets will be deployed in the autumn of 2022.
 * [`social_network-csv_basic-sf300.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf300.tar.zst)
 * [`social_network-csv_basic-sf1000.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf1000.tar.zst)
 
-### SNB Interactive: CsvComposite serializer using LongDateFormatter
+### SNB Interactive v1: CsvComposite serializer using LongDateFormatter
 
 These data sets were *correctly* generated [unlike the other data sets using the `LongDateFormatter`](https://github.com/ldbc/data-sets-surf-repository/issues/4). Feel free to use them.
 
@@ -182,7 +182,7 @@ These data sets were *correctly* generated [unlike the other data sets using the
 * [`social_network-csv_composite-longdateformatter-sf300.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite-longdateformatter/social_network-csv_composite-longdateformatter-sf300.tar.zst)
 * [`social_network-csv_composite-longdateformatter-sf1000.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite-longdateformatter/social_network-csv_composite-longdateformatter-sf1000.tar.zst)
 
-### SNB Interactive: CsvComposite serializer using StringDateFormatter
+### SNB Interactive v1: CsvComposite serializer using StringDateFormatter
 
 * [`social_network-csv_composite-sf0.1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite/social_network-csv_composite-sf0.1.tar.zst)
 * [`social_network-csv_composite-sf0.3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite/social_network-csv_composite-sf0.3.tar.zst)
@@ -194,12 +194,12 @@ These data sets were *correctly* generated [unlike the other data sets using the
 * [`social_network-csv_composite-sf300.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite/social_network-csv_composite-sf300.tar.zst)
 * [`social_network-csv_composite-sf1000.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite/social_network-csv_composite-sf1000.tar.zst)
 
-### SNB Interactive: CsvCompositeMergeForeign serializer using LongDateFormatter
+### SNB Interactive v1: CsvCompositeMergeForeign serializer using LongDateFormatter
 
 These data sets were incorrectly generated, see the [related issue](https://github.com/ldbc/data-sets-surf-repository/issues/4), hence we removed their links.
 The correctly generated data sets will be deployed in the autumn of 2022.
 
-### SNB Interactive: CsvCompositeMergeForeign serializer using StringDateFormatter
+### SNB Interactive v1: CsvCompositeMergeForeign serializer using StringDateFormatter
 
 * [`social_network-csv_composite_merge_foreign-sf0.1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign/social_network-csv_composite_merge_foreign-sf0.1.tar.zst)
 * [`social_network-csv_composite_merge_foreign-sf0.3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign/social_network-csv_composite_merge_foreign-sf0.3.tar.zst)
@@ -211,12 +211,12 @@ The correctly generated data sets will be deployed in the autumn of 2022.
 * [`social_network-csv_composite_merge_foreign-sf300.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign/social_network-csv_composite_merge_foreign-sf300.tar.zst)
 * [`social_network-csv_composite_merge_foreign-sf1000.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_composite_merge_foreign/social_network-csv_composite_merge_foreign-sf1000.tar.zst)
 
-### SNB Interactive: CsvMergeForeign serializer using LongDateFormatter
+### SNB Interactive v1: CsvMergeForeign serializer using LongDateFormatter
 
 These data sets were incorrectly generated, see the [related issue](https://github.com/ldbc/data-sets-surf-repository/issues/4), hence we removed their links.
 The correctly generated data sets will be deployed in the autumn of 2022.
 
-### SNB Interactive: CsvMergeForeign serializer using StringDateFormatter
+### SNB Interactive v1: CsvMergeForeign serializer using StringDateFormatter
 
 * [`social_network-csv_merge_foreign-sf0.1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_merge_foreign/social_network-csv_merge_foreign-sf0.1.tar.zst)
 * [`social_network-csv_merge_foreign-sf0.3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_merge_foreign/social_network-csv_merge_foreign-sf0.3.tar.zst)
@@ -228,7 +228,7 @@ The correctly generated data sets will be deployed in the autumn of 2022.
 * [`social_network-csv_merge_foreign-sf300.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_merge_foreign/social_network-csv_merge_foreign-sf300.tar.zst)
 * [`social_network-csv_merge_foreign-sf1000.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_merge_foreign/social_network-csv_merge_foreign-sf1000.tar.zst)
 
-### SNB Interactive: TTL serializer
+### SNB Interactive v1: TTL serializer
 
 * [`social_network_ttl_sf0.1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-ttl/social_network_ttl_sf0.1.tar.zst)
 * [`social_network_ttl_sf0.3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-ttl/social_network_ttl_sf0.3.tar.zst)
