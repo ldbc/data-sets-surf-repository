@@ -17,7 +17,7 @@ To decompress, use curl and [zstd](https://github.com/facebook/zstd).
 curl --silent --fail set_url_here | tar -xv --use-compress-program=unzstd
 ```
 
-We provide a script which attempts to download the data set and auto-stage it if necessary. Set the data set to the URLs linked below in this README (right click and select Copy Link Address):
+We provide the [`download-data-set.sh`](https://github.com/ldbc/data-sets-surf-repository/blob/main/download-data-set.sh) script, which attempts to download the data set and auto-stage it if necessary. Set the data set to the URLs linked below in this README (right click and select Copy Link Address).
 
 ```bash
 ./download-data-set.sh data_set_url
