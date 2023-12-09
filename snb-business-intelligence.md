@@ -152,6 +152,7 @@
 ## Raw
 
 * [`bi-sf1-raw.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf1-raw.tar.zst)
+* `bi-sf3-raw.tar.zst` - missing
 * [`bi-sf10-raw.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf10-raw.tar.zst)
 * [`bi-sf30-raw.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf30-raw.tar.zst)
 * [`bi-sf100-raw.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf100-raw.tar.zst)

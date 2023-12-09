@@ -31,9 +31,12 @@ Example:
 
 ## Data sets
 
+* [FinBench](finbench.md)
 * [Graphalytics](graphalytics.md)
-* [SNB Interactive v1 (Datagen v0.3.5)](snb-interactive-v1-datagen-v035.md)
-* [SNB Interactive v1 (Datagen v1.0.0)](snb-interactive-v1-datagen-v100.md)
-* [SNB Business Intelligence](snb-business-intelligence.md)
 * [LSQB](lsqb.md)
 * [SIGMOD 2014 Programming Contest](sigmod-2014-programming-contest.md)
+* [SNB Business Intelligence](snb-business-intelligence.md)
+* [SNB Interactive v1 (Datagen v0.3.5)](snb-interactive-v1-datagen-v035.md)
+* [SNB Interactive v1 (Datagen v1.0.0)](snb-interactive-v1-datagen-v100.md)
+* [SNB Interactive v2 updates](snb-interactive-v2-updates.md)
+* [SNB Factor tables](snb-factor-tables.md)
