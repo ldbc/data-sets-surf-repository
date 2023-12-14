@@ -2,7 +2,7 @@
 
 ### Graph and validation data sets
 
-[:inbox_tray: Repository](https://hdl.handle.net/11112/3c5ff07f-5aa9-91c5-4f82-3093e5becbb9)
+[Repository](https://hdl.handle.net/11112/3c5ff07f-5aa9-91c5-4f82-3093e5becbb9)
 
 | data set | number of vertices | number of edges |
 | -------- | -----------------: | --------------: |
@@ -48,7 +48,7 @@
 
 ### Graphs as sparse matrices in Matrix Market format
 
-[:inbox_tray: Repository](https://hdl.handle.net/11112/3c5ff07f-5aa9-91c5-4f82-3093e5becbb9)
+[Repository](https://hdl.handle.net/11112/3c5ff07f-5aa9-91c5-4f82-3093e5becbb9)
 
 | data set | number of vertices | number of edges |
 | -------- | -----------------: | --------------: |

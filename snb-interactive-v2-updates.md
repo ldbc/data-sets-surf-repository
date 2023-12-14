@@ -1,6 +1,6 @@
 ## Social Network Benchmark (SNB) Interactive v2 updates
 
-[:inbox_tray: Repository](https://hdl.handle.net/11112/3edb6afb-77e3-a03e-4b45-3e9ced11d988)
+[Repository](https://hdl.handle.net/11112/3edb6afb-77e3-a03e-4b45-3e9ced11d988)
 
 * [`interactive-updates-sf1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v2/files/ldbc-snb-interactive-v2-updates/interactive-updates-sf1.tar.zst)
 * [`interactive-updates-sf3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v2/files/ldbc-snb-interactive-v2-updates/interactive-updates-sf3.tar.zst)

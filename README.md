@@ -2,10 +2,6 @@
 
 The LDBC benchmark data sets are stored under [SURF's CWI repositories](https://repository.surfsara.nl/community/cwi).
 
-:bulb: The LDBC SNB Business Intelligence (BI) workload's data sets are stored in Cloudflare R2. See the links to the [BI data sets](https://github.com/ldbc/ldbc_snb_bi/blob/main/snb-bi-pre-generated-data-sets.md).
-
-:bulb: The LDBC SNB Interactive v2 workload's data sets are stored in Cloudflare R2. See the links to the [Interactive v2 data sets and update streams](https://github.com/ldbc/ldbc_snb_interactive_impls/blob/main/snb-interactive-pre-generated-data-sets.md).
-
 ## Usage
 
 The data sets are [stored on tape](https://servicedesk.surfsara.nl/wiki/display/WIKI/Data+Archive#DataArchive-What?-Thetapeback-endandtheDataMigrationFacility(DMF)), therefore, you may have to stage them before they can be downloaded.

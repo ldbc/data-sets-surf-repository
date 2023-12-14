@@ -1,6 +1,6 @@
 ## Social Network Benchmark (SNB) factor tables
 
-[:inbox_tray: Repository](https://hdl.handle.net/11112/f406fdc8-89fd-a0df-48f5-df4132781d70)
+[Repository](https://hdl.handle.net/11112/f406fdc8-89fd-a0df-48f5-df4132781d70)
 
 These factor tables were generated for the Interactive v2 and Business Intelligence workloads.
 

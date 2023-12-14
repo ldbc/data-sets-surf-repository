@@ -1,6 +1,6 @@
 ## SIGMOD 2014 Programming Contest
 
-[:inbox_tray: Repository](https://hdl.handle.net/11112/dde63984-08bb-848c-4f00-bfdad71ed649)
+[Repository](https://hdl.handle.net/11112/dde63984-08bb-848c-4f00-bfdad71ed649)
 
 ### Data sets used in the original contest
 

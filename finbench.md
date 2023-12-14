@@ -1,6 +1,6 @@
 ## Financial Benchmark (FinBench) v0.1
 
-[:inbox_tray: Repository](https://hdl.handle.net/11112/12674cc9-1870-b5c0-4b71-e360224a2083)
+[Repository](https://hdl.handle.net/11112/12674cc9-1870-b5c0-4b71-e360224a2083)
 
 * [`finbench-read_params-sf1.zip`](https://repository.surfsara.nl/datasets/cwi/ldbc-finbench/files/finbench-read_params-sf1.zip)
 * [`finbench-read_params-sf10.zip`](https://repository.surfsara.nl/datasets/cwi/ldbc-finbench/files/finbench-read_params-sf10.zip)

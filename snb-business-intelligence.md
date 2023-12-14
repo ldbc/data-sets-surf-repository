@@ -1,6 +1,8 @@
 ## Social Network Benchmark (SNB) Business Intelligence (BI)
 
-[:inbox_tray: Repository](https://hdl.handle.net/11112/260ffcb2-3831-b03d-4532-ce4662b531aa)
+[Repository](https://hdl.handle.net/11112/260ffcb2-3831-b03d-4532-ce4662b531aa)
+
+Several of the data sets are mirrored in Cloudflare R2. See the links to the [BI data sets](https://github.com/ldbc/ldbc_snb_bi/blob/main/snb-bi-pre-generated-data-sets.md).
 
 ## Composite Merged FK
 
