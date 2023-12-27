@@ -1,13 +1,27 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 set -eu
 
 if [ "$#" -ne 1 ]; then
-  echo "Usage: $0 DATA_SET_URL"
-  exit 1
+    echo "Usage: $0 DATA_SET_URL"
+    exit 1
 fi
 
 DATA_SET_URL=${1}
+
+if ! which curl > /dev/null; then
+    echo "Error: No curl binary found"
+    exit 1
+fi
+
+if which wget2 > /dev/null; then
+    WGET=wget2
+elif which wget > /dev/null; then
+    WGET=wget
+else
+    echo "Error: No wget or wget2 found"
+    exit 1
+fi
 
 echo "Preparing to download ${DATA_SET_URL}"
 while [[ $(curl --silent --head ${DATA_SET_URL} | grep 'HTTP/1.1 409 Conflict') ]]; do
@@ -20,4 +34,4 @@ while [[ $(curl --silent --head ${DATA_SET_URL} | grep 'HTTP/1.1 409 Conflict') 
 done
 
 echo "Downloading data set"
-curl --silent --fail ${DATA_SET_URL} | tar -xv --use-compress-program=unzstd
+${WGET} ${DATA_SET_URL}
