@@ -154,7 +154,7 @@ Several of the data sets are mirrored in Cloudflare R2. See the links to the [BI
 ## Raw
 
 * [`bi-sf1-raw.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf1-raw.tar.zst)
-* `bi-sf3-raw.tar.zst` - missing
+* [`bi-sf3-raw.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf3-raw.tar.zst)
 * [`bi-sf10-raw.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf10-raw.tar.zst)
 * [`bi-sf30-raw.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf30-raw.tar.zst)
 * [`bi-sf100-raw.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf100-raw.tar.zst)
