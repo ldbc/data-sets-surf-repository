@@ -8,6 +8,10 @@
 
 Several of the data sets are mirrored in Cloudflare R2. See the links to the [BI data sets](https://github.com/ldbc/ldbc_snb_bi/blob/main/snb-bi-pre-generated-data-sets.md).
 
+## Substitution parameters
+
+* [`bi-parameters-sf1-to-sf30000.zip`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-parameters-sf1-to-sf30000.zip)
+
 ## Composite Merged FK
 
 * [`bi-sf1-composite-merged-fk.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf1-composite-merged-fk.tar.zst)
@@ -149,7 +153,9 @@ Several of the data sets are mirrored in Cloudflare R2. See the links to the [BI
 * [`bi-sf30000-composite-projected-fk.tar.zst.066`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf30000-composite-projected-fk.tar.zst.066)
 * [`bi-sf30000-composite-projected-fk.tar.zst.067`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf30000-composite-projected-fk.tar.zst.067)
 
-## Composite Projected FK with Quotes
+## Composite Projected FK with quotes
+
+These data sets are formatted such that they can be directly loaded to the Neo4j GDBMS.
 
 * [`bi-sf1-composite-projected-fk-with-quotes-without-headers.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf1-composite-projected-fk-with-quotes-without-headers.tar.zst)
 * [`bi-sf3-composite-projected-fk-with-quotes-without-headers.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf3-composite-projected-fk-with-quotes-without-headers.tar.zst)
