@@ -27,9 +27,9 @@ Example:
 
 ## Data sets
 
-* [FinBench](finbench)
+* [Financial Benchmark (FinBench)](finbench)
 * [Graphalytics](graphalytics)
-* [LSQB](lsqb)
+* [Labeled Subgraph Query Benchmark (LSQB)](lsqb)
 * [SIGMOD 2014 Programming Contest](sigmod-2014-programming-contest)
 * [SNB Business Intelligence (BI)](snb-business-intelligence)
 * [SNB Interactive v1 (Datagen v0.3.5)](snb-interactive-v1-datagen-v035)
