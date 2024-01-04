@@ -10,6 +10,7 @@ These factor tables were generated for the Interactive v2 and Business Intellige
 
 * [`snb-factors.md5`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-factors/files/snb-factors.md5)
 * [`snb-sf1-factors.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-factors/files/snb-sf1-factors.tar.zst)
+* [`snb-sf3-factors.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-factors/files/snb-sf3-factors.tar.zst)
 * [`snb-sf10-factors.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-factors/files/snb-sf10-factors.tar.zst)
 * [`snb-sf30-factors.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-factors/files/snb-sf30-factors.tar.zst)
 * [`snb-sf100-factors.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-factors/files/snb-sf100-factors.tar.zst)
