@@ -1,3 +1,7 @@
+# LDBC benchmark data sets
+
+[LDBC benchmark data sets home](index)
+
 ## Social Network Benchmark (SNB) Interactive v1 – Datagen v1.0.0
 
 [Repository](https://hdl.handle.net/11112/260ffcb2-3831-b03d-4532-ce4662b531aa)

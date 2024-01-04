@@ -1,3 +1,7 @@
+# LDBC benchmark data sets
+
+[LDBC benchmark data sets home](index)
+
 ## Labelled Subgraph Query Benchmark (LSQB)
 
 [Repository](https://hdl.handle.net/11112/9fa972d6-dec4-983a-4e6a-83809f39b7fe)

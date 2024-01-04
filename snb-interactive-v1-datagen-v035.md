@@ -1,3 +1,7 @@
+# LDBC benchmark data sets
+
+[LDBC benchmark data sets home](index)
+
 ## Social Network Benchmark (SNB) Interactive v1 – Datagen v0.3.5
 
 :warning: Note that these data sets should not be used for new experiments as they have a minor bug that makes concurrent updates fail with certain thread counts

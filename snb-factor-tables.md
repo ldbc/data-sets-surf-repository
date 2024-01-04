@@ -1,3 +1,7 @@
+# LDBC benchmark data sets
+
+[LDBC benchmark data sets home](index)
+
 ## Social Network Benchmark (SNB) factor tables
 
 [Repository](https://hdl.handle.net/11112/f406fdc8-89fd-a0df-48f5-df4132781d70)

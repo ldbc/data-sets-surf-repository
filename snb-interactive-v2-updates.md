@@ -1,3 +1,7 @@
+# LDBC benchmark data sets
+
+[LDBC benchmark data sets home](index)
+
 ## Social Network Benchmark (SNB) Interactive v2 updates
 
 [Repository](https://hdl.handle.net/11112/3edb6afb-77e3-a03e-4b45-3e9ced11d988)

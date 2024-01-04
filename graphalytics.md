@@ -1,3 +1,7 @@
+# LDBC benchmark data sets
+
+[LDBC benchmark data sets home](index)
+
 ## LDBC Graphalytics
 
 ### Graph and validation data sets
