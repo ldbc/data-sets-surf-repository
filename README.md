@@ -27,12 +27,12 @@ Example:
 
 ## Data sets
 
-* [Financial Benchmark (FinBench)](finbench)
-* [Graphalytics](graphalytics)
-* [Labeled Subgraph Query Benchmark (LSQB)](lsqb)
-* [SIGMOD 2014 Programming Contest](sigmod-2014-programming-contest)
-* [SNB Business Intelligence (BI)](snb-business-intelligence)
-* [SNB Interactive v1 (Datagen v0.3.5)](snb-interactive-v1-datagen-v035)
-* [SNB Interactive v1 (Datagen v1.0.0)](snb-interactive-v1-datagen-v100)
-* [SNB Interactive v2 updates](snb-interactive-v2-updates)
-* [SNB factor tables](snb-factor-tables)
+* [Financial Benchmark (FinBench)](finbench.md)
+* [Graphalytics](graphalytics.md)
+* [Labeled Subgraph Query Benchmark (LSQB)](lsqb.md)
+* [SIGMOD 2014 Programming Contest](sigmod-2014-programming-contest.md)
+* [SNB Business Intelligence (BI)](snb-business-intelligence.md)
+* [SNB Interactive v1 (Datagen v0.3.5)](snb-interactive-v1-datagen-v035.md)
+* [SNB Interactive v1 (Datagen v1.0.0)](snb-interactive-v1-datagen-v100.md)
+* [SNB Interactive v2 updates](snb-interactive-v2-updates.md)
+* [SNB factor tables](snb-factor-tables.md)
