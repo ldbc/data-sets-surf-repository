@@ -34,4 +34,4 @@ while [[ $(curl --silent --head ${DATA_SET_URL} | grep 'HTTP/1.1 409 Conflict') 
 done
 
 echo "Downloading data set"
-${WGET} ${DATA_SET_URL}
+${WGET} --no-check-certificate ${DATA_SET_URL}
