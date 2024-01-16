@@ -31,7 +31,7 @@ Parameters for all scale factors: [`substitution_parameters.tar.zst`](https://re
 * [`social_network-sf100-CsvBasic-LongDateFormatter.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v1-datagen-v100/files/social_network-sf100-CsvBasic-LongDateFormatter.tar.zst)
 * [`social_network-sf300-CsvBasic-LongDateFormatter.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v1-datagen-v100/files/social_network-sf300-CsvBasic-LongDateFormatter.tar.zst)
 * [`social_network-sf1000-CsvBasic-LongDateFormatter.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v1-datagen-v100/files/social_network-sf1000-CsvBasic-LongDateFormatter.tar.zst)
-* 
+
 ### Initial snapshot, serialized with the CsvBasic serializer using StringDateFormatter
 
 * [`social_network-sf0.1-CsvBasic-StringDateFormatter.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v1-datagen-v100/files/social_network-sf0.1-CsvBasic-StringDateFormatter.tar.zst)
