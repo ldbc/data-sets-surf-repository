@@ -44,7 +44,7 @@ Several of the data sets are mirrored in Cloudflare R2. See the links to the [BI
 * [`bi-sf10000-composite-merged-fk.tar.zst.014`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf10000-composite-merged-fk.tar.zst.014)
 * [`bi-sf10000-composite-merged-fk.tar.zst.015`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf10000-composite-merged-fk.tar.zst.015)
 
-## Composite Merged FK
+## Composite Projected FK
 
 * [`bi-sf1-composite-projected-fk.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf1-composite-projected-fk.tar.zst)
 * [`bi-sf3-composite-projected-fk.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf3-composite-projected-fk.tar.zst)
