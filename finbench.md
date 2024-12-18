@@ -4,7 +4,7 @@ This page is part of the [LDBC benchmark data sets repository](index). For downl
 
 ## Financial Benchmark (FinBench) v0.1
 
-[Repository](https://hdl.handle.net/11112/12674cc9-1870-b5c0-4b71-e360224a2083)
+[Repository](https://repository.surfsara.nl/datasets/cwi/ldbc-finbench)
 
 * [`finbench-read_params-sf1.zip`](https://repository.surfsara.nl/datasets/cwi/ldbc-finbench/files/finbench-read_params-sf1.zip)
 * [`finbench-read_params-sf10.zip`](https://repository.surfsara.nl/datasets/cwi/ldbc-finbench/files/finbench-read_params-sf10.zip)

@@ -4,7 +4,7 @@ This page is part of the [LDBC benchmark data sets repository](index). For downl
 
 ## Social Network Benchmark (SNB) Interactive v2 updates
 
-[Repository](https://hdl.handle.net/11112/3edb6afb-77e3-a03e-4b45-3e9ced11d988)
+[Repository](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v2)
 
 * [`interactive-updates-sf1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v2/files/ldbc-snb-interactive-v2-updates/interactive-updates-sf1.tar.zst)
 * [`interactive-updates-sf3.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v2/files/ldbc-snb-interactive-v2-updates/interactive-updates-sf3.tar.zst)

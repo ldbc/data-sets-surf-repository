@@ -4,7 +4,7 @@ This page is part of the [LDBC benchmark data sets repository](index). For downl
 
 ## Social Network Benchmark (SNB) Interactive v1 – Datagen v1.0.0
 
-[Repository](https://hdl.handle.net/11112/260ffcb2-3831-b03d-4532-ce4662b531aa)
+[Repository](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v1-datagen-v100)
 
 ### Substitution parameters
 

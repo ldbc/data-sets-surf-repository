@@ -4,7 +4,7 @@ This page is part of the [LDBC benchmark data sets repository](index). For downl
 
 ## Social Network Benchmark (SNB) factor tables
 
-[Repository](https://hdl.handle.net/11112/f406fdc8-89fd-a0df-48f5-df4132781d70)
+[Repository](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-factors)
 
 These factor tables were generated for the Interactive v2 and Business Intelligence workloads.
 

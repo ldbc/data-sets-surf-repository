@@ -6,7 +6,7 @@ This page is part of the [LDBC benchmark data sets repository](index). For downl
 
 ### Graph and validation data sets
 
-[Repository](https://hdl.handle.net/11112/3c5ff07f-5aa9-91c5-4f82-3093e5becbb9)
+[Repository](https://repository.surfsara.nl/datasets/cwi/ldbc-graphalytics-2023)
 
 | data set | number of vertices | number of edges |
 | -------- | -----------------: | --------------: |
@@ -52,7 +52,7 @@ This page is part of the [LDBC benchmark data sets repository](index). For downl
 
 ### Graphs as sparse matrices in Matrix Market format
 
-[Repository](https://hdl.handle.net/11112/3c5ff07f-5aa9-91c5-4f82-3093e5becbb9)
+[Repository](https://repository.surfsara.nl/datasets/cwi/ldbc-graphalytics-2023)
 
 | data set | number of vertices | number of edges |
 | -------- | -----------------: | --------------: |

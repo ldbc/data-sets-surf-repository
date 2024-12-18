@@ -4,7 +4,7 @@ This page is part of the [LDBC benchmark data sets repository](index). For downl
 
 ## Labelled Subgraph Query Benchmark (LSQB)
 
-[Repository](https://hdl.handle.net/11112/9fa972d6-dec4-983a-4e6a-83809f39b7fe)
+[Repository](https://repository.surfsara.nl/datasets/cwi/lsqb)
 
 ### Merged FK
 

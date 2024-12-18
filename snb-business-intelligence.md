@@ -4,7 +4,7 @@ This page is part of the [LDBC benchmark data sets repository](index). For downl
 
 ## Social Network Benchmark (SNB) Business Intelligence (BI)
 
-[Repository](https://hdl.handle.net/11112/260ffcb2-3831-b03d-4532-ce4662b531aa)
+[Repository](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi)
 
 Several of the data sets are mirrored in Cloudflare R2. See the links to the [BI data sets](https://github.com/ldbc/ldbc_snb_bi/blob/main/snb-bi-pre-generated-data-sets.md).
 

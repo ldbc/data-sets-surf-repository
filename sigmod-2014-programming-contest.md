@@ -4,7 +4,7 @@ This page is part of the [LDBC benchmark data sets repository](index). For downl
 
 ## SIGMOD 2014 Programming Contest
 
-[Repository](https://hdl.handle.net/11112/dde63984-08bb-848c-4f00-bfdad71ed649)
+[Repository](https://repository.surfsara.nl/datasets/cwi/ldbc-sigmod-data-sets)
 
 ### Data sets used in the original contest
 
