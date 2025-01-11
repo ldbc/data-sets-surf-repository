@@ -309,3 +309,11 @@ Parameters for all scale factors: [`substitution_parameters.tar.zst`](https://re
 * [`social_network-sf1000-numpart-512.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v1-datagen-v100/files/update-streams/social_network-sf1000-numpart-512.tar.zst)
 * [`social_network-sf1000-numpart-768.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v1-datagen-v100/files/update-streams/social_network-sf1000-numpart-768.tar.zst)
 * [`social_network-sf1000-numpart-1024.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v1-datagen-v100/files/update-streams/social_network-sf1000-numpart-1024.tar.zst)
+
+### SF3000
+
+The SF3000 data set, update streams, and parameters are hosted on Cloudflare R2:
+
+* <https://datasets.ldbcouncil.org/interactive-v1/interactive-v1-sf3000-parquet.tar>
+* <https://datasets.ldbcouncil.org/interactive-v1/interactive-v1-sf3000-updatestreams.tar.zst>
+* <https://datasets.ldbcouncil.org/interactive-v1/interactive-v1-sf3000-parameters.tar.zst>
