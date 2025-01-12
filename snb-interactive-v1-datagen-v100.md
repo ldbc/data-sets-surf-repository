@@ -314,6 +314,6 @@ Parameters for all scale factors: [`substitution_parameters.tar.zst`](https://re
 
 The SF3000 data set, update streams, and parameters are hosted on Cloudflare R2:
 
-* <https://datasets.ldbcouncil.org/interactive-v1/interactive-v1-sf3000-parquet.tar>
-* <https://datasets.ldbcouncil.org/interactive-v1/interactive-v1-sf3000-updatestreams.tar.zst>
-* <https://datasets.ldbcouncil.org/interactive-v1/interactive-v1-sf3000-parameters.tar.zst>
+* [`interactive-v1-sf3000-parquet.tar`](https://datasets.ldbcouncil.org/interactive-v1/interactive-v1-sf3000-parquet.tar)
+* [`interactive-v1-sf3000-updatestreams.tar.zst`](https://datasets.ldbcouncil.org/interactive-v1/interactive-v1-sf3000-updatestreams.tar.zst)
+* [`interactive-v1-sf3000-parameters.tar.zst`](https://datasets.ldbcouncil.org/interactive-v1/interactive-v1-sf3000-parameters.tar.zst)
