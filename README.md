@@ -13,7 +13,7 @@ To decompress, use [zstd](https://github.com/facebook/zstd).
 tar -xv --use-compress-program=unzstd file.tar.zst
 ```
 
-We provide the [`download-data-set.sh`](https://github.com/ldbc/data-sets-surf-repository/blob/main/download-data-set.sh) script, which attempts to download the data set and stages it to disk if necessary. Replace the `data_set_url` with one of the URLs linked below in this README (right click and select Copy Link Address).
+We provide the [`download-data-set.sh`](https://raw.githubusercontent.com/ldbc/data-sets-surf-repository/refs/heads/main/download-data-set.sh) script, which attempts to download the data set and stages it to disk if necessary. Replace the `data_set_url` with one of the URLs linked below in this README (right click and select Copy Link Address).
 
 ```bash
 ./download-data-set.sh data_set_url
