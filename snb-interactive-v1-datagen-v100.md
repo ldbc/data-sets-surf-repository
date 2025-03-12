@@ -6,6 +6,20 @@ This page is part of the [LDBC benchmark data sets repository](index). For downl
 
 [Repository](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v1-datagen-v100)
 
+## Table of Contents
+
+- [Substitution parameters](#substitution-parameters)
+- [Serialized with the CsvBasic serializer using LongDateFormatter](#initial-snapshot-serialized-with-the-csvbasic-serializer-using-longdateformatter)
+- [Serialized with the CsvBasic serializer using StringDateFormatter](#initial-snapshot-serialized-with-the-csvbasic-serializer-using-stringdateformatter)
+- [Serialized with the CsvComposite serializer using LongDateFormatter](#initial-snapshot-serialized-with-the-csvcomposite-serializer-using-longdateformatter)
+- [Serialized with the CsvComposite serializer using StringDateFormatter](#initial-snapshot-serialized-with-the-csvcomposite-serializer-using-stringdateformatter)
+- [Serialized with the CsvCompositeMergeForeign serializer using LongDateFormatter](#initial-snapshot-serialized-with-the-csvcompositemergeforeign-serializer-using-longdateformatter)
+- [Serialized with the CsvCompositeMergeForeign serializer using StringDateFormatter](#initial-snapshot-serialized-with-the-csvcompositemergeforeign-serializer-using-stringdateformatter)
+- [Serialized with the CsvMergeForeign serializer using LongDateFormatter](#initial-snapshot-serialized-with-the-csvmergeforeign-serializer-using-longdateformatter)
+- [Serialized with the CsvMergeForeign serializer using StringDateFormatter](#initial-snapshot-serialized-with-the-csvmergeforeign-serializer-using-stringdateformatter)
+- [Serialized with the TTL (Turtle) serializer](#initial-snapshot-serialized-with-the-ttl-turtle-serializer)
+- [Update streams](#update-streams)
+
 ### Substitution parameters
 
 Parameters for all scale factors: [`substitution_parameters.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/substitution_parameters/substitution_parameters.tar.zst)

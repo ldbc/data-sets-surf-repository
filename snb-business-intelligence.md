@@ -8,6 +8,16 @@ This page is part of the [LDBC benchmark data sets repository](index). For downl
 
 Several of the data sets are mirrored in Cloudflare R2. See the links to the [BI data sets](https://github.com/ldbc/ldbc_snb_bi/blob/main/snb-bi-pre-generated-data-sets.md).
 
+## Table of Contents
+
+- [Social Network Benchmark (SNB) Business Intelligence (BI)](#social-network-benchmark-snb-business-intelligence-bi)
+- [Substitution parameters](#substitution-parameters)
+- [Composite Merged FK](#composite-merged-fk)
+- [Composite Projected FK](#composite-projected-fk)
+- [Composite Projected FK with quotes](#composite-projected-fk-with-quotes)
+- [Raw](#raw)
+- [Factors](#factors)
+
 ## Substitution parameters
 
 * [`bi-parameters-sf1-to-sf30000.zip`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-parameters-sf1-to-sf30000.zip)
