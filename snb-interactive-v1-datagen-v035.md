@@ -18,7 +18,7 @@ This page is part of the [LDBC benchmark data sets repository](index). For downl
 * [`social_network-csv-basic-longdateformatter-sf100.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v1-datagen-v035/files/social_network-csv-basic-longdateformatter-sf100.tar.zst)
 * [`social_network-csv-basic-longdateformatter-sf300.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v1-datagen-v035/files/social_network-csv-basic-longdateformatter-sf300.tar.zst)
 * [`social_network-csv-basic-longdateformatter-sf1000.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-interactive-v1-datagen-v035/files/social_network-csv-basic-longdateformatter-sf1000.tar.zst)
-* 
+
 ### Initial snapshot, serialized with the CsvBasic serializer using StringDateFormatter
 
 * [`social_network-csv_basic-sf0.1.tar.zst`](https://repository.surfsara.nl/datasets/cwi/snb/files/social_network-csv_basic/social_network-csv_basic-sf0.1.tar.zst)
