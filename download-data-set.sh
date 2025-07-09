@@ -26,9 +26,14 @@ fi
 echo "Preparing to download ${DATA_SET_URL}"
 while [[ $(curl --silent --head ${DATA_SET_URL} | grep 'HTTP/1.1 409 Conflict') ]]; do
     echo "Data set is not staged, attempting to stage..."
-    STAGE_URL=$(curl --silent ${DATA_SET_URL} | grep -Eo 'https:\\/\\/repository.surfsara.nl\\/api\\/objects\\/cwi\\/[A-Za-z_-]+\\/stage\\/[0-9]+' | sed 's#\\##g')
-    curl ${STAGE_URL} --data-raw 'share-token='
-    echo "Staging initiated through ${STAGE_URL}"
+    STAGING_URL=$(curl --silent ${DATA_SET_URL} | grep -Eo 'https:\\/\\/repository.surfsara.nl\\/api\\/objects\\/cwi\\/[A-Za-z0-9_-]+\\/stage\\/[0-9]+' | sed 's#\\##g')
+
+    if [[ -z ${STAGING_URL} ]]; then
+        echo "Could not retrieve staging URL, exiting..."
+        exit 1
+    fi
+    curl ${STAGING_URL} --data-raw 'share-token='
+    echo "Staging initiated through ${STAGING_URL}"
     echo "Wait for 30 seconds"
     sleep 30
 done
