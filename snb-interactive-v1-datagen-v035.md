@@ -4,8 +4,8 @@ This page is part of the [LDBC benchmark data sets repository](index). For downl
 
 ## Social Network Benchmark (SNB) Interactive v1 – Datagen v0.3.5
 
-:warning: Note that these data sets should not be used for new experiments as they have a minor bug that makes concurrent updates fail with certain thread counts
-(see [the related GitHub issue `ldbc_snb_datagen_hadoop/issues/24`](https://github.com/ldbc/ldbc_snb_datagen_hadoop/issues/24)). Instead, use the [updated data sets that were produced by Datagen v1.0.0](snb-interactive-v1-datagen-v100).
+⚠️ Note that these data sets should not be used for new experiments as they have a minor bug that makes concurrent updates fail with certain thread counts
+(see [`ldbc_snb_datagen_hadoop/issues/24`](https://github.com/ldbc/ldbc_snb_datagen_hadoop/issues/24)). Instead, use the [updated data sets that were produced by Datagen v1.0.0](snb-interactive-v1-datagen-v100).
 
 ### Initial snapshot, serialized with the CsvBasic serializer using LongDateFormatter
 
