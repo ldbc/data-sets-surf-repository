@@ -1,6 +1,6 @@
-# LDBC benchmark data sets
+# LDBC benchmark datasets
 
-This page is part of the [LDBC benchmark data sets repository](index). For download instructions, see the [usage section](index#usage).
+This page is part of the [LDBC benchmark datasets repository](index). For download instructions, see the [usage section](index#usage).
 
 ## Social Network Benchmark (SNB) Interactive v1 – Datagen v1.0.0
 
@@ -326,7 +326,7 @@ Parameters for all scale factors: [`substitution_parameters.tar.zst`](https://re
 
 ### SF3000
 
-The SF3000 data set, update streams, and parameters are hosted on Cloudflare R2:
+The SF3000 dataset, update streams, and parameters are hosted on Cloudflare R2:
 
 * [`interactive-v1-sf3000-parquet.tar`](https://datasets.ldbcouncil.org/interactive-v1/interactive-v1-sf3000-parquet.tar)
 * [`interactive-v1-sf3000-updatestreams.tar.zst`](https://datasets.ldbcouncil.org/interactive-v1/interactive-v1-sf3000-updatestreams.tar.zst)

@@ -1,12 +1,12 @@
-# LDBC benchmark data sets
+# LDBC benchmark datasets
 
-This page is part of the [LDBC benchmark data sets repository](index). For download instructions, see the [usage section](index#usage).
+This page is part of the [LDBC benchmark datasets repository](index). For download instructions, see the [usage section](index#usage).
 
 ## Social Network Benchmark (SNB) Business Intelligence (BI)
 
 [Repository](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi)
 
-Several of the data sets are mirrored in Cloudflare R2. See the links to the [BI data sets](https://github.com/ldbc/ldbc_snb_bi/blob/main/snb-bi-pre-generated-data-sets.md).
+Several of the datasets are mirrored in Cloudflare R2. See the links to the [BI data sets](https://github.com/ldbc/ldbc_snb_bi/blob/main/snb-bi-pre-generated-data-sets.md).
 
 ## Table of Contents
 
@@ -165,7 +165,7 @@ Several of the data sets are mirrored in Cloudflare R2. See the links to the [BI
 
 ## Composite Projected FK with quotes
 
-These data sets are formatted such that they can be directly loaded to the Neo4j GDBMS.
+These datasets are formatted such that they can be directly loaded to the Neo4j GDBMS.
 
 * [`bi-sf1-composite-projected-fk-with-quotes-without-headers.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf1-composite-projected-fk-with-quotes-without-headers.tar.zst)
 * [`bi-sf3-composite-projected-fk-with-quotes-without-headers.tar.zst`](https://repository.surfsara.nl/datasets/cwi/ldbc-snb-bi/files/bi-sf3-composite-projected-fk-with-quotes-without-headers.tar.zst)

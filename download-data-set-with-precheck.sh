@@ -33,7 +33,7 @@ else
 
     echo "Preparing to download ${DATA_SET_URL}"
     while [[ $(curl --silent --head ${DATA_SET_URL} | grep 'HTTP/1.1 409 Conflict') ]]; do
-        echo "Data set is not staged, attempting to stage..."
+        echo "Dataset is not staged, attempting to stage..."
         STAGING_URL=$(curl --silent ${DATA_SET_URL} | grep -Eo 'https:\\/\\/repository.surfsara.nl\\/api\\/objects\\/cwi\\/[A-Za-z0-9_-]+\\/stage\\/[0-9]+' | sed 's#\\##g')
 
         if [[ -z ${STAGING_URL} ]]; then
@@ -46,6 +46,6 @@ else
         sleep 30
     done
 
-    echo "Downloading data set"
+    echo "Downloading dataset"
     ${WGET} --no-check-certificate ${DATA_SET_URL}
 fi

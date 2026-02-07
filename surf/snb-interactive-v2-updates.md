@@ -1,6 +1,6 @@
-# LDBC benchmark data sets
+# LDBC benchmark datasets
 
-This page is part of the [LDBC benchmark data sets repository](index). For download instructions, see the [usage section](index#usage).
+This page is part of the [LDBC benchmark datasets repository](index). For download instructions, see the [usage section](index#usage).
 
 ## Social Network Benchmark (SNB) Interactive v2 updates
 

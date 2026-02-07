@@ -1,12 +1,12 @@
-# LDBC benchmark data sets
+# LDBC benchmark datasets
 
-This page is part of the [LDBC benchmark data sets repository](index). For download instructions, see the [usage section](index#usage).
+This page is part of the [LDBC benchmark datasets repository](index). For download instructions, see the [usage section](index#usage).
 
 ## LDBC Graphalytics
 
-### Graph and validation data sets
+### Graph and validation datasets
 
-| data set | number of vertices | number of edges |
+| dataset | number of vertices | number of edges |
 | -------- | -----------------: | --------------: |
 | [`cit-Patents.tar.zst`](https://datasets.ldbcouncil.org/graphalytics/cit-Patents.tar.zst) | 3774768 | 16518947 |
 | [`com-friendster.tar.zst`](https://datasets.ldbcouncil.org/graphalytics/com-friendster.tar.zst) | 65608366 | 1806067135 |
@@ -52,7 +52,7 @@ This page is part of the [LDBC benchmark data sets repository](index). For downl
 
 [Repository](https://repository.surfsara.nl/datasets/cwi/ldbc-graphalytics-2023)
 
-| data set | number of vertices | number of edges |
+| dataset | number of vertices | number of edges |
 | -------- | -----------------: | --------------: |
 | [`matrix-market/cit-Patents.tar.zst`](https://repository.surfsara.nl/datasets/cwi/graphalytics/files/graphalytics-sparse-matrices-matrix-market/cit-Patents.tar.zst) | 3774768 | 16518947 |
 | [`matrix-market/com-friendster.tar.zst`](https://repository.surfsara.nl/datasets/cwi/graphalytics/files/graphalytics-sparse-matrices-matrix-market/com-friendster.tar.zst) | 65608366 | 1806067135 |
